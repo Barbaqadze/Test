@@ -1,1 +1,1 @@
-</p> <?php $command = "ls"; $output = exec($command); echo $output; ?> <!--
+asdsad</p><section onclick="alert(1)" style=display:block>payload</section><section><p>idk 
